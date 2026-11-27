@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\zakladkyoop.obj",
+            "outputs": [
+                "x64\\Debug\\zakladkyoop.cpp.obj.dt.module.json",
+                "x64\\Debug\\zakladkyoop.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
